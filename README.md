@@ -1,4 +1,4 @@
-# Title of your paper
+# Diagnostic potential for a serum miRNA neural network for detection of ovarian cancer
 ### Members
 * name, student ID1
 * name, student ID2
