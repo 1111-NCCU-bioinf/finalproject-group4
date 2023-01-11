@@ -1,0 +1,9 @@
+model,AUC
+LDA,0.68
+Logistic,0.65
+NN,0.73
+SVM,0.67
+NB,0.57
+LAD,0.55
+RF,0.62
+EN,0.66
