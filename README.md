@@ -1,9 +1,9 @@
 # Diagnostic potential for a serum miRNA neural network for detection of ovarian cancer
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* 高語謙, 111753130
+* 程至榮, 
+* 陳亮酉, 
+* 黃大瑋,
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
