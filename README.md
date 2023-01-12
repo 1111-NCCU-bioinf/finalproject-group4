@@ -17,7 +17,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### docs
 * bioinfo_finalProject_group4.pptx
 * How_to.md
-  * 
+  * How to use this project?
 
 ### data
 * Source
