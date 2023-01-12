@@ -38,8 +38,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Packages you use
 Sklearn https://scikit-learn.org/1.0/index.html
 Logitboost https://logitboost.readthedocs.io/
+
 Plotly https://plotly.com/python/
+
 Matplotlib https://matplotlib.org/stable/index.html#]
+
 Statistica https://docs.tibco.com/products/tibco-statistica-14-0-1
 
 * Related publications
