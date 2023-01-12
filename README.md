@@ -20,9 +20,9 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * How to use this project?
 
 ### data
-* Source
-* Format
-* Size
+* Source: Diagnostic potential for a serum miRNA neural network for detection of ovarian cancer **Supplementary file 6. ** https://elifesciences.org/articles/28932/figures#supp6
+* Format: xlsx
+* Size: 4.8MB
 
 ### code
 * Which packages do you use? 
