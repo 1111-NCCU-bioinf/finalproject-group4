@@ -36,10 +36,10 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * Packages you use
-Sklearn https://scikit-learn.org/1.0/index.html Black man with clipboard near colleagues(https://scikit-learn.org/1.0/index.html Black man with clipboard near colleagues)
-Logitboost https://logitboost.readthedocs.io/ Landing page template for essential oil bottle podium with geometric shapes(https://logitboost.readthedocs.io/ Landing page template for essential oil bottle podium with geometric shapes)
-Plotly https://plotly.com/python/(https://plotly.com/python/)
-Matplotlib https://matplotlib.org/stable/index.html#(https://matplotlib.org/stable/index.html#)
-Statistica https://docs.tibco.com/products/tibco-statistica-14-0-1(https://docs.tibco.com/products/tibco-statistica-14-0-1)
+Sklearn https://scikit-learn.org/1.0/index.html
+Logitboost https://logitboost.readthedocs.io/
+Plotly https://plotly.com/python/
+Matplotlib https://matplotlib.org/stable/index.html#]
+Statistica https://docs.tibco.com/products/tibco-statistica-14-0-1
 
 * Related publications
